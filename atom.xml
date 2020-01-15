@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wilbur&#39;s blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://1wb.github.io/"/>
+  <updated>2020-01-15T09:12:37.616Z</updated>
+  <id>https://1wb.github.io/</id>
+  
+  <author>
+    <name>Cappuccino</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何在Win10下使用命令行升级iOS/iPadOS 13</title>
+    <link href="https://1wb.github.io/2019/06/08/win10-ipados-ios-13/"/>
+    <id>https://1wb.github.io/2019/06/08/win10-ipados-ios-13/</id>
+    <published>2019-06-08T00:49:00.000Z</published>
+    <updated>2020-01-15T09:12:37.616Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;p&gt;北京时间 6 月 4 日凌晨，苹果在 WWDC 上发布了各个平台的新一代操作系统。最引人瞩目的当然是iOS
+        
+      
+    
+    </summary>
+    
+      <category term="技术分享" scheme="https://1wb.github.io/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+    
+      <category term="win10" scheme="https://1wb.github.io/tags/win10/"/>
+    
+      <category term="ipados" scheme="https://1wb.github.io/tags/ipados/"/>
+    
+      <category term="ios" scheme="https://1wb.github.io/tags/ios/"/>
+    
+      <category term="升级" scheme="https://1wb.github.io/tags/%E5%8D%87%E7%BA%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>win10系列之如何最快速从微软官网下载最新版本iso映像</title>
+    <link href="https://1wb.github.io/2019/06/03/win10-easy-download-from-microsoft/"/>
+    <id>https://1wb.github.io/2019/06/03/win10-easy-download-from-microsoft/</id>
+    <published>2019-06-03T20:34:00.000Z</published>
+    <updated>2020-01-15T09:12:37.616Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;认准官方网站&quot;&gt;&lt;a href=&quot;#认准官方网站&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术分享" scheme="https://1wb.github.io/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+    
+      <category term="win10" scheme="https://1wb.github.io/tags/win10/"/>
+    
+      <category term="微软" scheme="https://1wb.github.io/tags/%E5%BE%AE%E8%BD%AF/"/>
+    
+      <category term="下载" scheme="https://1wb.github.io/tags/%E4%B8%8B%E8%BD%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Davinci Resolve如何在两个片段之间插入素材</title>
+    <link href="https://1wb.github.io/2019/05/27/davinciresolve%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%A4%E4%B8%AA%E7%89%87%E6%AE%B5%E4%B9%8B%E9%97%B4%E6%8F%92%E5%85%A5%E7%B4%A0%E6%9D%90/"/>
+    <id>https://1wb.github.io/2019/05/27/davinciresolve如何在两个片段之间插入素材/</id>
+    <published>2019-05-27T16:11:00.000Z</published>
+    <updated>2020-01-15T09:12:37.616Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;p&gt;今天跟大家说一个我在使用Davinci Resolve的过程中遇到的问题，就是如何在两段素材之间插入一个素材。&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+      <category term="技术分享" scheme="https://1wb.github.io/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+    
+      <category term="davinci" scheme="https://1wb.github.io/tags/davinci/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>还在为寻找简历模板烦恼吗？零基础教你打造优雅的markdown简历</title>
+    <link href="https://1wb.github.io/2019/05/21/markdown-resume/"/>
+    <id>https://1wb.github.io/2019/05/21/markdown-resume/</id>
+    <published>2019-05-21T18:11:00.000Z</published>
+    <updated>2020-01-15T09:12:37.616Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-了解markdown&quot;&gt;&lt;a href=&quot;#1-了解markdown&quot; class=&quot;headerlink&quot; title=&quot;1 了解markdown&quot;&gt;&lt;/a&gt;1 了解markdown&lt;/h2&gt;&lt;h3 id=&quot;为什么是markdown？&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="技术分享" scheme="https://1wb.github.io/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+    
+      <category term="markdown" scheme="https://1wb.github.io/tags/markdown/"/>
+    
+  </entry>
+  
+</feed>
